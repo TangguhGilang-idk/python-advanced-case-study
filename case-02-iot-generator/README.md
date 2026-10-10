@@ -14,6 +14,3 @@ cd case-02-iot-generator
 python main.py
 ```
 atau langsung run file main.py
-
-## Bukti Eksekusi
-![Output program](output.png)

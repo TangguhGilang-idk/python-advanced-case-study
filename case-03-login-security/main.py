@@ -1,8 +1,3 @@
-"""Studi Kasus 3 - Sistem Keamanan Akun & Audit Log Login.
-
-Konsep: RegEx, decorator & closure, @property.
-"""
-
 import functools
 import hashlib
 import re

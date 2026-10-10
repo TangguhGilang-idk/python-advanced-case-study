@@ -1,8 +1,3 @@
-"""Studi Kasus 2 - Streaming Data Sensor IoT Hemat Memori.
-
-Konsep: iterator pattern, generator function (yield), efisiensi memori.
-"""
-
 import random
 import sys
 from itertools import islice

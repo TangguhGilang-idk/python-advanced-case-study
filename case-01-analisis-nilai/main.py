@@ -1,8 +1,3 @@
-"""Studi Kasus 1 - Analisis Nilai Mahasiswa.
-
-Konsep: list comprehension, lambda, filtering & sorting.
-"""
-
 BOBOT = {"tugas": 0.30, "uts": 0.30, "uas": 0.40}
 
 data_mahasiswa = [
